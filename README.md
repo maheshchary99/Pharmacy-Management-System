@@ -1,1 +1,1 @@
-# Pharmacy-Management-System
+The project is about Pharmacy Management System it is used to order medicines and getting bill from ordered medicines and send message and pdf using Email-API to customers email,the modules are customer,admin,addmedicine,searchmedicine,ordermedicines.The admin can access customers information ,add-medicines ,add-stock and etc.The customer can view what medicines are available and price of medicines and after customer registered they will get email to there mail.
